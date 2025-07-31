@@ -163,8 +163,8 @@ if __name__ == "__main__":
     # 示例配置 - 请修改为您的实际FTP信息
     FTP_CONFIG = {
         'host': '192.168.1.22',
-        'username': 'pokes',
-        'password': '4501596',
+        'username': 'admin',
+        'password': '123456',
         'remote_path': '/',
         'local_path': 'd:/downloads/erp_ftp_bak',
         'port': 6000,  # 使用您的特殊控制端口

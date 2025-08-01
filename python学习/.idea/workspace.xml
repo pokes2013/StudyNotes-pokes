@@ -30,15 +30,23 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.001.executor": "Run",
     "Python.002.executor": "Run",
+    "Python.003.executor": "Run",
     "Python.004-变量命名规范化.executor": "Run",
+    "Python.004.executor": "Run",
     "Python.005.executor": "Run",
+    "Python.4.3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "D:/DATA/git仓库/私有资料备份/StudyNotes-pokes/python学习",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.005-将日志模块使用padans实现重复报告">
-    <configuration name="001-原来的旧版可用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DATA\git仓库\私有资料备份\StudyNotes-pokes\python学习\python项目实战" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.004-v4.3暂时最完美">
+    <configuration name="002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python学习" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python检验重复" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python项目实战/python转码项目2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\DATA\git仓库\私有资料备份\StudyNotes-pokes\python学习\python检验重复\001-原来的旧版可用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python项目实战/python转码项目2025/002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="002-优化代码-日志以当天命名" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python学习" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python检验重复" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python项目实战/python转码项目2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\DATA\git仓库\私有资料备份\StudyNotes-pokes\python学习\python检验重复\002-优化代码-日志以当天命名.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python项目实战/python转码项目2025/003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="004-变量命名规范化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="004-v4.3暂时最完美" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python学习" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python检验重复" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python项目实战/python转码项目2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python检验重复/004-变量命名规范化.py" />
+      <option name="SCRIPT_NAME" value="D:\DATA\git仓库\私有资料备份\StudyNotes-pokes\python学习\python项目实战\python转码项目2025\004-v4.3暂时最完美.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="005-将日志模块使用padans实现重复报告" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python学习" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,11 +121,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python检验重复" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python项目实战/python转码项目2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\DATA\git仓库\私有资料备份\StudyNotes-pokes\python学习\python检验重复\005-将日志模块使用padans实现重复报告.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python项目实战/python转码项目2025/004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python学习" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python项目实战/python转码项目2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python项目实战/python转码项目2025/005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,10 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.005-将日志模块使用padans实现重复报告" />
-        <item itemvalue="Python.004-变量命名规范化" />
-        <item itemvalue="Python.002-优化代码-日志以当天命名" />
-        <item itemvalue="Python.001-原来的旧版可用" />
+        <item itemvalue="Python.004-v4.3暂时最完美" />
+        <item itemvalue="Python.003" />
+        <item itemvalue="Python.002" />
+        <item itemvalue="Python.005" />
+        <item itemvalue="Python.004" />
       </list>
     </recent_temporary>
   </component>
